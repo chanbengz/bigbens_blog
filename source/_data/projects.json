@@ -1,0 +1,12 @@
+[
+    {
+       "name":"VEX Robotics",
+       "url":"https://github.com/chanbengz/VEX_15966A_OTG",
+       "desc":"A player-friendly and competitve robot program"
+    },
+    {
+       "name":"Dark Chess",
+       "url":"https://github.com/chanbengz/SUSTech_CS109_Project",
+       "desc":"Little chess game in Java"
+    }
+]
